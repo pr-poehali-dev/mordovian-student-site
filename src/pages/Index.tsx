@@ -73,11 +73,14 @@ export default function Index() {
                   Будущий учитель истории
                 </Badge>
               </div>
-              <h1 className="text-6xl font-bold text-primary mb-6 leading-tight">
-                Изучая прошлое,<br />создаю будущее
+              <h1 className="text-6xl font-bold text-primary mb-4 leading-tight">
+                Картмазова Ксения<br />Александровна
               </h1>
+              <h2 className="text-3xl font-semibold text-primary/80 mb-6">
+                Изучая прошлое, создаю будущее
+              </h2>
               <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-                Студент Мордовского государственного педагогического университета имени М. Е. Евсевьева.
+                Студентка Мордовского государственного педагогического университета имени М. Е. Евсевьева.
                 Исследую методики преподавания истории и развиваю инновационные подходы в образовании.
               </p>
               <div className="flex gap-4">
