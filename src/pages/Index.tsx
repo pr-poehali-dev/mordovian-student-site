@@ -170,7 +170,7 @@ export default function Index() {
                 <div className="md:grid md:grid-cols-2 md:gap-8 items-center">
                   <div className="md:text-right mb-4 md:mb-0">
                     <Card className="inline-block p-6 border-2 border-secondary/50">
-                      <Badge className="mb-3 bg-primary text-primary-foreground">2022 - настоящее время</Badge>
+                      <Badge className="mb-3 bg-primary text-primary-foreground">2022 - 2026</Badge>
                       <h3 className="text-2xl font-bold text-primary mb-2">Бакалавриат</h3>
                       <p className="text-lg text-muted-foreground">Педагогическое образование</p>
                     </Card>
@@ -182,7 +182,7 @@ export default function Index() {
                         МГПУ им. М. Е. Евсевьева
                       </h4>
                       <p className="text-muted-foreground">
-                        Историко-филологический факультет
+                        Факультет истории и права
                       </p>
                     </div>
                   </div>
