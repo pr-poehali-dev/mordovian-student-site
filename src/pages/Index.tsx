@@ -173,7 +173,7 @@ export default function Index() {
                 <div className="md:grid md:grid-cols-2 md:gap-8 items-center">
                   <div className="md:text-right mb-4 md:mb-0">
                     <Card className="inline-block p-6 border-2 border-secondary/50">
-                      <Badge className="mb-3 bg-primary text-primary-foreground">2022 - 2026</Badge>
+                      <Badge className="mb-3 bg-primary text-primary-foreground">2024 - 2029</Badge>
                       <h3 className="text-2xl font-bold text-primary mb-2">Бакалавриат</h3>
                       <p className="text-lg text-muted-foreground">Педагогическое образование</p>
                     </Card>
@@ -193,29 +193,6 @@ export default function Index() {
               </div>
 
               <div className="relative animate-fade-in" style={{ animationDelay: '0.2s' }}>
-                <div className="md:grid md:grid-cols-2 md:gap-8 items-center">
-                  <div className="md:text-right mb-4 md:mb-0 md:order-2">
-                    <Card className="inline-block p-6 border-2 border-primary/50">
-                      <Badge className="mb-3 bg-secondary text-secondary-foreground">2024</Badge>
-                      <h3 className="text-2xl font-bold text-primary mb-2">Повышение квалификации</h3>
-                      <p className="text-lg text-muted-foreground">Цифровые технологии в образовании</p>
-                    </Card>
-                  </div>
-                  <div className="flex items-center md:order-1">
-                    <div className="w-8 h-8 bg-primary rounded-full border-4 border-background absolute left-1/2 transform -translate-x-1/2" />
-                    <div className="md:ml-8">
-                      <h4 className="text-xl font-bold text-primary mb-2">
-                        Сертификационный курс
-                      </h4>
-                      <p className="text-muted-foreground">
-                        72 академических часа
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="relative animate-fade-in" style={{ animationDelay: '0.4s' }}>
                 <div className="md:grid md:grid-cols-2 md:gap-8 items-center">
                   <div className="md:text-right mb-4 md:mb-0">
                     <Card className="inline-block p-6 border-2 border-accent/50">
