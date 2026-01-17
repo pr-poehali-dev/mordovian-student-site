@@ -10,19 +10,19 @@ export default function Index() {
   const articles = [
     {
       title: 'Методы преподавания истории в современной школе',
-      date: '15 декабря 2024',
+      date: '15 декабря 2025',
       category: 'Методика',
       excerpt: 'Анализ современных подходов к преподаванию истории и их эффективность в образовательном процессе.'
     },
     {
       title: 'Роль исторического наследия в формировании личности',
-      date: '3 ноября 2024',
+      date: '3 ноября 2025',
       category: 'Педагогика',
       excerpt: 'Исследование влияния исторического образования на развитие критического мышления учащихся.'
     },
     {
       title: 'Цифровые технологии на уроках истории',
-      date: '20 октября 2024',
+      date: '20 октября 2025',
       category: 'Инновации',
       excerpt: 'Практическое применение мультимедийных технологий для повышения вовлеченности студентов.'
     }
@@ -196,7 +196,7 @@ export default function Index() {
                 <div className="md:grid md:grid-cols-2 md:gap-8 items-center">
                   <div className="md:text-right mb-4 md:mb-0">
                     <Card className="inline-block p-6 border-2 border-accent/50">
-                      <Badge className="mb-3 bg-accent text-accent-foreground">2023</Badge>
+                      <Badge className="mb-3 bg-accent text-accent-foreground">2026</Badge>
                       <h3 className="text-2xl font-bold text-primary mb-2">Педагогическая практика</h3>
                       <p className="text-lg text-muted-foreground">Школа № 4, г. Рузаевка</p>
                     </Card>
