@@ -218,19 +218,11 @@ export default function Index() {
                     <Card className="inline-block p-6 border-2 border-accent/50">
                       <Badge className="mb-3 bg-accent text-accent-foreground">2023</Badge>
                       <h3 className="text-2xl font-bold text-primary mb-2">Педагогическая практика</h3>
-                      <p className="text-lg text-muted-foreground">Школа № 32, г. Саранск</p>
+                      <p className="text-lg text-muted-foreground">Школа № 4, г. Рузаевка</p>
                     </Card>
                   </div>
                   <div className="flex items-center">
                     <div className="w-8 h-8 bg-accent rounded-full border-4 border-background absolute left-1/2 transform -translate-x-1/2" />
-                    <div className="md:ml-8">
-                      <h4 className="text-xl font-bold text-primary mb-2">
-                        Практический опыт
-                      </h4>
-                      <p className="text-muted-foreground">
-                        Проведение уроков истории, 7-9 классы
-                      </p>
-                    </div>
                   </div>
                 </div>
               </div>
